@@ -2,4 +2,6 @@
 
 > Iniciando o projeto
 
-- executar no terminal npm start
+- npm install create-react-app
+- ./node_modules/.bin/create-react-app cdc-admin
+- npm start
