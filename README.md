@@ -1,6 +1,6 @@
 **Para iniciar o projeto, tenha instalado o Node.js na sua máquina**
 
-1. Iniciando o projeto
+> Iniciando o projeto
 
 No terminal, após selecionar uma pasta desejada, realizar os comandos:
 
